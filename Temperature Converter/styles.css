@@ -1,0 +1,45 @@
+#Container
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px solid black;
+    text-align: center;
+    background-color: rgb(243, 249, 255);
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px;
+    max-width: 450px;
+    margin: auto;
+    padding: 20px;
+}
+
+#heading 
+{
+    color: rgba(50, 50, 253, 0.61);
+}
+
+#myButton
+{
+    font-size: 1.3em;
+    color: white;
+    background-color: rgb(255, 102, 102);
+    border-radius: 5px;
+    padding: 10px 10px;
+    transition: background-color 0.25s;
+    cursor: pointer;
+}
+
+#myButton:hover
+{
+    background-color: rgb(255, 33, 33);
+}
+
+#result
+{
+    font-size: 1.4em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#myInput
+{
+    font-size: 1.2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
