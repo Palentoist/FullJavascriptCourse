@@ -1,0 +1,47 @@
+#myHeading
+{
+    color: rgb(63, 129, 252);
+}
+
+#Container
+{
+    border: 2px solid black;
+    text-align: center;
+    height: 400px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px;
+    width: 500px;
+}
+
+#myButton
+{
+    font-size: 1.7em;
+    color: white;
+    background-color: #059696;
+    border-radius: 5px;
+    margin-top: 100px;
+    padding: 5px 20px;
+    transition: background-color 0.25s;
+    cursor: pointer;
+}
+
+#myButton:hover
+{
+    background-color: #28d3d3;
+}
+
+#result
+{
+    color: rgb(240, 79, 79);
+    font: bold;
+}
+
+#myAttempts
+{
+    display: flex;
+    margin-left: 10px;
+    font-size: 20px;
+    color: rgb(132, 0, 255);
+    font: bolder;
+
+}
