@@ -1,0 +1,43 @@
+#Container
+{
+    text-align: center;
+    margin: auto;
+    width: 350px;
+    border: 2px solid black;
+    padding: 20px 20px 20px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px ;
+    background-color: rgb(226, 226, 226);
+}
+
+#heading
+{
+    color: rgb(41, 175, 8);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#myButton
+{
+    color: white;
+    background-color: darkgoldenrod;
+    border-radius: 5px;
+    font-size: 1.3em;
+    margin-top: 20px;
+    border: none;
+    padding: 10px 10px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+
+#myButton:hover
+{
+    background-color: rgb(250, 181, 8);
+}
+
+#myResult
+{
+    font-size: 1.1em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 20px;
+}
